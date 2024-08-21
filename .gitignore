@@ -1,0 +1,27 @@
+# dev
+.vscode
+docs/build
+build
+.ipynb_checkpoints
+venv
+*.idea
+*.ipynb
+
+# project
+ai_models
+data
+catboost_info
+*cache*
+
+# python
+__pycache__
+
+# others
+*.xlsx
+*.csv
+*.egg-info
+*.pkl
+
+
+
+*.jar
