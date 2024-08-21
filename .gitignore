@@ -5,7 +5,7 @@ build
 .ipynb_checkpoints
 venv
 *.idea
-*.ipynb
+#*.ipynb
 
 # project
 ai_models
