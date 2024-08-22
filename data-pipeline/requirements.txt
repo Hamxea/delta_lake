@@ -2,3 +2,4 @@ confluent-kafka
 requests
 json5
 pyspark==3.3.0
+psycopg2-binary
